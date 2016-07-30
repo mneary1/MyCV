@@ -1,4 +1,4 @@
-This s where my CV lives. I write LaTeX wth [this](sharelatex.com). I use the following template:
+This is where my CV lives. I write LaTeX with [ShareLaTeX](https://www.sharelatex.com). I use the following template:
 
 # Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
